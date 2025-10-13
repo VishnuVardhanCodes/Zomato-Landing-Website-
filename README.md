@@ -3,7 +3,6 @@
 This is a **Zomato Landing Page** created using **HTML** and **CSS** to replicate the look and feel of Zomato’s homepage.  
 It focuses on clean design, layout structure, and responsive elements that make the page visually appealing and user-friendly.
 
----
 
 ## 🧠 Project Overview
 
@@ -15,14 +14,12 @@ This landing page includes elements like:
 - Call-to-action sections  
 - Footer with links  
 
----
 
 ## 🛠️ Technologies Used
 
 - **HTML5** – for the structure and layout of the page  
 - **CSS3** – for styling, colors, animations, and layout design  
 
----
 
 ## 💡 Features
 
@@ -31,7 +28,7 @@ This landing page includes elements like:
 - Simple and modern user interface  
 - Responsive design for different screen sizes  
 
----
+
 zomato-landing-page/
 │
 ├── index.html
@@ -44,17 +41,13 @@ zomato-landing-page/
 │ └── ...
 └── README.md
 
------
 
-
----
 
 ## 🚀 How to View
 
 You can open the project by simply opening the `index.html` file in any browser,  
 or run it using VS Code Live Server extension.
 
----
 
 ⭐ *If you like this project, don’t forget to star the repository!*
 
