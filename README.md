@@ -29,20 +29,6 @@ This landing page includes elements like:
 - Responsive design for different screen sizes  
 
 
-zomato-landing-page/
-│
-├── index.html
-├── style.css
-├── images/
-│ ├── burger.png
-│ ├── pizza.png
-│ ├── momos.png
-│ ├── bg.png
-│ └── ...
-└── README.md
-
-
-
 ## 🚀 How to View
 
 You can open the project by simply opening the `index.html` file in any browser,  
